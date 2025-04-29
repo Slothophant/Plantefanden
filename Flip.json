@@ -1008,8 +1008,8 @@
     "klasse": "Magnoliopsida"
   },
   {
-    "billede": "images/Kveller|Salturt.png",
-    "art_dk": "Kveller",
+    "billede": "images/Kveller.png",
+    "art_dk": "Kveller (Almindelig salturt)",
     "art_lat": "Salicornia europaea",
     "familie_dk": "Salturt",
     "familie_lat": "Chenopodiaceae",
@@ -2124,8 +2124,8 @@
     "klasse": "Magnoliopsida"
   },
   {
-    "billede": "images/Gåse-potentil.png",
-    "art_dk": "Gåse-potentil",
+    "billede": "images/Gåsepotentil.png",
+    "art_dk": "Gåsepotentil",
     "art_lat": "Potentilla anserina",
     "familie_dk": "Rosen",
     "familie_lat": "Rosaceae",
@@ -2136,8 +2136,8 @@
     "klasse": "Magnoliopsida"
   },
   {
-    "billede": "images/Sølv-potentil coll..png",
-    "art_dk": "Sølv-potentil coll.",
+    "billede": "images/Sølv-potentil.png",
+    "art_dk": "Sølv-potentil",
     "art_lat": "Potentilla argentea",
     "familie_dk": "Rosen",
     "familie_lat": "Rosaceae",
@@ -2712,7 +2712,7 @@
     "klasse": "Magnoliopsida"
   },
   {
-    "billede": "images/Ahorn (Ær).png",
+    "billede": "images/Ahorn.png",
     "art_dk": "Ahorn (Ær)",
     "art_lat": "Acer pseudoplatanus",
     "familie_dk": "Løn",
@@ -2988,8 +2988,8 @@
     "klasse": "Magnoliopsida"
   },
   {
-    "billede": "images/Éngriflet hvidtjørn.png",
-    "art_dk": "Éngriflet hvidtjørn",
+    "billede": "images/Engriflet hvidtjørn.png",
+    "art_dk": "Engriflet hvidtjørn",
     "art_lat": "Crataegus monogyna",
     "familie_dk": "Rosen",
     "familie_lat": "Rosaceae",
