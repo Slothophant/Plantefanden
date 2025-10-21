@@ -3589,7 +3589,7 @@
   {
     "billede": "images/Østersø-hjælme.png",
     "art_dk": "Østersø-hjælme",
-    "art_lat": "Ammophila arenaria",
+    "art_lat": "Ammophila arenaria var. Calamagrostis epigeios",
     "familie_dk": "Græs",
     "familie_lat": "Græs",
     "indikator": ["2110", "2120"],
@@ -6501,6 +6501,7 @@
     "typisk": ["6120"]
   }
 ]
+
 
 
 
