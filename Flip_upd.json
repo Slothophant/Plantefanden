@@ -2239,7 +2239,7 @@
     "familie_dk": "Rosen",
     "familie_lat": "Rosaceae",
     "indikator": [],
-    "typisk": ["6210.0"],
+    "typisk": ["6210"],
     "kategori": "Blomsterplanter",
     "slægt": "Rubus",
     "klasse": "Magnoliopsida"
@@ -6501,3 +6501,4 @@
     "typisk": ["6120"]
   }
 ]
+
