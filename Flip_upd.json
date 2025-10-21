@@ -6339,8 +6339,8 @@
     "typisk": ["4030", "7110"]
   },
   {
-    "billede": "images/NA.png",
-    "art_dk": "Østlig tuekogleaks",
+    "billede": "images/Østlig kærtuekogleaks.png",
+    "art_dk": "Østlig kærtuekogleaks",
     "art_lat": "Trichophorum cespitosum subsp. cespitosum",
     "familie_dk": "Halvgræs",
     "familie_lat": "Cyperaceae",
@@ -6348,8 +6348,8 @@
     "typisk": ["4030"]
   },
   {
-    "billede": "images/Vestlig tuekogleaks.png",
-    "art_dk": "Vestlig tuekogleaks",
+    "billede": "images/Vestlig kær-tuekogleaks.png",
+    "art_dk": "Vestlig kær-tuekogleaks",
     "art_lat": "Trichophorum cespitosum subsp. germanicum",
     "familie_dk": "Halvgræs",
     "familie_lat": "Cyperaceae",
@@ -6501,4 +6501,5 @@
     "typisk": ["6120"]
   }
 ]
+
 
