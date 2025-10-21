@@ -6339,8 +6339,8 @@
     "typisk": ["4030", "7110"]
   },
   {
-    "billede": "images/Østlig kærtuekogleaks.png",
-    "art_dk": "Østlig kærtuekogleaks",
+    "billede": "images/Østlig kær-tuekogleaks.png",
+    "art_dk": "Østlig kær-tuekogleaks",
     "art_lat": "Trichophorum cespitosum subsp. cespitosum",
     "familie_dk": "Halvgræs",
     "familie_lat": "Cyperaceae",
@@ -6501,5 +6501,6 @@
     "typisk": ["6120"]
   }
 ]
+
 
 
