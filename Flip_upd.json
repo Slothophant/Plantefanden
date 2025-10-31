@@ -3591,7 +3591,7 @@
     "art_dk": "Østersø-hjælme",
     "art_lat": "Ammophila arenaria var. Calamagrostis epigeios",
     "familie_dk": "Græs",
-    "familie_lat": "Græs",
+    "familie_lat": "Poaceae",
     "indikator": ["2110", "2120"],
     "typisk": []
   },
@@ -3618,7 +3618,7 @@
     "art_dk": "Vellugtende gulaks",
     "art_lat": "Anthoxanthum odoratum",
     "familie_dk": "Græs",
-    "familie_lat": "Græs",
+    "familie_lat": "Poaceae",
     "indikator": [],
     "typisk": ["2130", "6230"]
   },
@@ -5315,13 +5315,6 @@
     "typisk": []
   },
   {
-    "billede": "images/NA.png",
-    "art_dk": "Almindelig kællingetand (varietet)",
-    "art_lat": "Lotus corniculatus var. corniculatus",
-    "indikator": [],
-    "typisk": ["2130"]
-  },
-  {
     "billede": "images/Mark-frytle.png",
     "art_dk": "Mark-frytle",
     "art_lat": "Luzula campestris",
@@ -6501,6 +6494,7 @@
     "typisk": ["6120"]
   }
 ]
+
 
 
 
