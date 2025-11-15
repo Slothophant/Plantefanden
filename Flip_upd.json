@@ -241,18 +241,6 @@
     "klasse": "Magnoliopsida"
   },
   {
-    "billede": "images/Strand-malurt.png",
-    "art_dk": "Strand-malurt",
-    "art_lat": "Artemisia maritima",
-    "familie_dk": "Kurvplante",
-    "familie_lat": "Asteraceae",
-    "indikator": ["1330"],
-    "typisk": [],
-    "kategori": "Blomsterplanter",
-    "slægt": "Artemisia",
-    "klasse": "Magnoliopsida"
-  },
-  {
     "billede": "images/Grå-bynke.png",
     "art_dk": "Grå-bynke",
     "art_lat": "Artemisia vulgaris",
@@ -6441,6 +6429,7 @@
     "typisk": ["6120"]
   }
 ]
+
 
 
 
