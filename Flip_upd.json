@@ -2906,19 +2906,6 @@
     "klasse": "Magnoliopsida"
   },
   {
-    "billede": "images/Gyvel.png",
-    "art_dk": "Gyvel",
-    "art_lat": "Cytisus scoparius",
-    "familie_dk": "Ærteblomst",
-    "familie_lat": "Fabaceae",
-    "indikator": ["2140", "4030"],
-    "typisk": ["9190"],
-    "kategori": "Vedplanter",
-    "underkategori": "Buske",
-    "slægt": "Cytisus",
-    "klasse": "Magnoliopsida"
-  },
-  {
     "billede": "images/Bøg.png",
     "art_dk": "Bøg",
     "art_lat": "Fagus sylvatica",
@@ -6481,6 +6468,7 @@
     "typisk": ["6120"]
   }
 ]
+
 
 
 
