@@ -6087,15 +6087,6 @@
     "typisk": []
   },
   {
-    "billede": "images/Lav skorsoner.png",
-    "art_dk": "Lav skorsoner",
-    "art_lat": "Scorzonera humilis",
-    "familie_dk": "Kurvplante",
-    "familie_lat": "Asteraceae",
-    "indikator": ["4030"],
-    "typisk": []
-  },
-  {
     "billede": "images/Seline.png",
     "art_dk": "Seline",
     "art_lat": "Selinum carvifolia",
@@ -6429,6 +6420,7 @@
     "typisk": ["6120"]
   }
 ]
+
 
 
 
