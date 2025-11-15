@@ -2945,19 +2945,6 @@
     "klasse": "Magnoliopsida"
   },
   {
-    "billede": "images/Almindelig eg.png",
-    "art_dk": "Almindelig eg",
-    "art_lat": "Quercus robur",
-    "familie_dk": "Bøg",
-    "familie_lat": "Fagaceae",
-    "indikator": ["9160", "9170", "9190"],
-    "typisk": [],
-    "kategori": "Vedplanter",
-    "underkategori": "Løvfældende træer",
-    "slægt": "Quercus",
-    "klasse": "Magnoliopsida"
-  },
-  {
     "billede": "images/Stikkelsbær.png",
     "art_dk": "Stikkelsbær",
     "art_lat": "Ribes uva-crispa",
@@ -6494,6 +6481,7 @@
     "typisk": ["6120"]
   }
 ]
+
 
 
 
