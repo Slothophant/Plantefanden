@@ -5955,15 +5955,6 @@
     "typisk": []
   },
   {
-    "billede": "images/Almindelig salturt.png",
-    "art_dk": "Almindelig salturt",
-    "art_lat": "Salicornia europaea",
-    "familie_dk": "Salturt",
-    "familie_lat": "Chenopodiaceae",
-    "indikator": ["1310", "1340"],
-    "typisk": []
-  },
-  {
     "billede": "images/Langakset salturt.png",
     "art_dk": "Langakset salturt",
     "art_lat": "Salicornia procumbens",
@@ -6450,6 +6441,7 @@
     "typisk": ["6120"]
   }
 ]
+
 
 
 
