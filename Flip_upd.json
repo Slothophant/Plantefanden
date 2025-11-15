@@ -4533,15 +4533,6 @@
     "typisk": []
   },
   {
-    "billede": "images/Gulerod.png",
-    "art_dk": "Gulerod",
-    "art_lat": "Daucus carota",
-    "familie_dk": "Skærmplante",
-    "familie_lat": "Apiaceae",
-    "indikator": ["1230"],
-    "typisk": []
-  },
-  {
     "billede": "images/Mose-bunke.png",
     "art_dk": "Mose-bunke",
     "art_lat": "Deschampsia cespitosa",
@@ -6459,6 +6450,7 @@
     "typisk": ["6120"]
   }
 ]
+
 
 
 
