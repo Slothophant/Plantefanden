@@ -5415,15 +5415,6 @@
     "typisk": []
   },
   {
-    "billede": "images/Mose-pors.png",
-    "art_dk": "Mose-pors",
-    "art_lat": "Myrica gale",
-    "familie_dk": "Pors",
-    "familie_lat": "Myricaceae",
-    "indikator": ["2140", "4010"],
-    "typisk": ["7120"]
-  },
-  {
     "billede": "images/Katteskæg.png",
     "art_dk": "Katteskæg",
     "art_lat": "Nardus stricta",
@@ -6468,6 +6459,7 @@
     "typisk": ["6120"]
   }
 ]
+
 
 
 
